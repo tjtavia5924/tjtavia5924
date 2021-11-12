@@ -1,9 +1,4 @@
-### Hi I'm Tavia 👋
-
-<!--
-**tjtavia5924/tjtavia5924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi I'm Tavia
 
 - 🔭 I’m currently working on STEM Degree part-time with the OU
 - 🌱 I’m currently learning Full-stack Developer Bootcamp with Blackcodher
